@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1759504479 source:c:\users\user\desktop\robobank_account\main.cpp
+	<iostream>
+	"RoboBank_Account.h"
+	"cal.h"
+	"function.h"
+
+1759499996 source:c:\users\user\desktop\robobank_account\src\robobank_account.cpp
+	"RoboBank_Account.h"
+	"cal.h"
+	"function.h"
+	<iostream>
+	<cstring>
+
+1759453634 c:\users\user\desktop\robobank_account\include\robobank_account.h
+	"cal.h"
+	"function.h"
+	<cstring>
+
+1759451712 source:c:\users\user\desktop\robobank_account\cal.cpp
+	"cal.h"
+	<cmath>
+	<string>
+	<map>
+
+1759178451 c:\users\user\desktop\robobank_account\cal.h
+	<string>
+	<map>
+
+1759451711 source:c:\users\user\desktop\robobank_account\function.cpp
+	<iostream>
+	<cstring>
+	"function.h"
+	"cal.h"
+
+1759248739 c:\users\user\desktop\robobank_account\function.h
+
+1759178451 c:\users\user\desktop\robobank_account\include\cal.h
+	<string>
+	<map>
+
+1759449855 c:\users\user\desktop\robobank_account\include\function.h
+
