@@ -83,5 +83,3 @@ void Account::apply(const TxRecord& tx) {
             break;
     }
 }
-
-}
