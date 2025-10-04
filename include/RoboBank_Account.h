@@ -2,7 +2,6 @@
 #define ROBOBANK_ACCOUNT_H
 
 #include "cal.h"
-#include "function.h"
 #include <cstring>
 
 using namespace std;
@@ -55,4 +54,5 @@ class Account {
 
 };
 #endif
+
 
